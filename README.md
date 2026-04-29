@@ -1,7 +1,7 @@
 # kol-Candelabra
 Relay override and CLI script for July 2024's item of the month the Roman Candelabra. Converts Roman numerals into  Arabic numbers.
 
-Uses the [kol-desc](https://github.com/deadned24/kol-desc) library.
+Runs on top of [kol-desc](https://github.com/deadned24/kol-desc).
 
 ## Installation
 
